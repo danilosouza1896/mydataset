@@ -1,7 +1,7 @@
 <annotation>
 	<folder>finaldataset</folder>
 	<filename>0017.jpg</filename>
-	<path>/home/danilo/&#195;&#129;rea de Trabalho/finaldataset/0017.jpg</path>
+	<path>/home/danilo/Área de Trabalho/finaldataset/0017.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -11,42 +11,6 @@
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
-	<object>
-		<name>car</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>702</xmin>
-			<ymin>499</ymin>
-			<xmax>787</xmax>
-			<ymax>541</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>car</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>618</xmin>
-			<ymin>491</ymin>
-			<xmax>699</xmax>
-			<ymax>529</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>car</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>531</xmin>
-			<ymin>480</ymin>
-			<xmax>591</xmax>
-			<ymax>514</ymax>
-		</bndbox>
-	</object>
 	<object>
 		<name>car</name>
 		<pose>Unspecified</pose>

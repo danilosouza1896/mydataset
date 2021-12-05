@@ -1,7 +1,7 @@
 <annotation>
 	<folder>finaldataset</folder>
 	<filename>0005.jpg</filename>
-	<path>/home/danilo/&#195;&#129;rea de Trabalho/finaldataset/0005.jpg</path>
+	<path>/home/danilo/Área de Trabalho/finaldataset/0005.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -45,18 +45,6 @@
 			<ymin>499</ymin>
 			<xmax>1035</xmax>
 			<ymax>596</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>car</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>936</xmin>
-			<ymin>390</ymin>
-			<xmax>1000</xmax>
-			<ymax>424</ymax>
 		</bndbox>
 	</object>
 </annotation>

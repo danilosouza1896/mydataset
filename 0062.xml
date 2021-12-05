@@ -1,7 +1,7 @@
 <annotation>
 	<folder>finaldataset</folder>
-	<filename>0006.jpg</filename>
-	<path>/home/danilo/&#195;&#129;rea de Trabalho/finaldataset/0006.jpg</path>
+	<filename>0062.jpg</filename>
+	<path>/home/danilo/Área de Trabalho/finaldataset/0062.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>390</xmin>
-			<ymin>440</ymin>
-			<xmax>550</xmax>
-			<ymax>521</ymax>
+			<xmin>221</xmin>
+			<ymin>490</ymin>
+			<xmax>418</xmax>
+			<ymax>584</ymax>
 		</bndbox>
 	</object>
 </annotation>

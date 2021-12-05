@@ -1,7 +1,7 @@
 <annotation>
 	<folder>finaldataset</folder>
 	<filename>0038.jpg</filename>
-	<path>/home/danilo/&#195;&#129;rea de Trabalho/finaldataset/0038.jpg</path>
+	<path>/home/danilo/Área de Trabalho/finaldataset/0038.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -53,30 +53,6 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>469</xmin>
-			<ymin>145</ymin>
-			<xmax>582</xmax>
-			<ymax>212</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>car</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>590</xmin>
-			<ymin>139</ymin>
-			<xmax>712</xmax>
-			<ymax>192</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>car</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
 			<xmin>800</xmin>
 			<ymin>198</ymin>
 			<xmax>951</xmax>
@@ -89,82 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>719</xmin>
-			<ymin>129</ymin>
-			<xmax>820</xmax>
-			<ymax>183</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>car</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>818</xmin>
-			<ymin>132</ymin>
-			<xmax>917</xmax>
-			<ymax>180</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>car</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
 			<xmin>969</xmin>
 			<ymin>236</ymin>
 			<xmax>1166</xmax>
 			<ymax>344</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>car</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>978</xmin>
-			<ymin>140</ymin>
-			<xmax>1048</xmax>
-			<ymax>186</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>car</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1029</xmin>
-			<ymin>121</ymin>
-			<xmax>1083</xmax>
-			<ymax>156</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>car</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1171</xmin>
-			<ymin>131</ymin>
-			<xmax>1210</xmax>
-			<ymax>162</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>car</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>367</xmin>
-			<ymin>109</ymin>
-			<xmax>489</xmax>
-			<ymax>192</ymax>
 		</bndbox>
 	</object>
 	<object>
